@@ -1,0 +1,6 @@
+package com.example.aniwhiz
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
