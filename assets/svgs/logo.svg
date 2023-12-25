@@ -1,35 +1,7 @@
-<svg data-v-0dd9719b="" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 340.000000 250.000000" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB" style="margin: auto;">
-  <rect data-v-0dd9719b="" x="0" y="0" width="100%" height="100%" fill="#feffff" fill-opacity="0" class="background"></rect>
-  <g data-v-0dd9719b="" fill="#333" class="iconlettersvg-g iconlettersvg" transform="translate(139.40566062927246,100)">
-    <g>
-      <g class="tp-name" opacity="1" transform="matrix(1,0,0,1,0,0)">
-        <g transform="scale(1)">
-          <g transform="translate(0, 0)">
-            <g class="name-imagesvg">
-              <g>
-                <rect fill="#333" fill-opacity="0" stroke-width="2" x="0" y="0" width="61.18867982108638" height="50" class="image-rect"></rect>
-                <svg filter="url(#colors5981030381)" x="0" y="0" width="61.18867982108638" height="50" filtersec="colorsb8912559170" class="image-svg-svg primary" style="overflow: visible;">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32.43 26.52">
-                    <path d="M31.31 0h-7l-1.77 1.76-.09-.41-.15-.68-.15-.67H16l-1.8 1.79-.09-.42L14 .69 13.83 0H5.68L0 5.68l.28 1.08.28 1.07 2.32 9 2.5 9.67h6.72l2.12-2.12.26 1.46.15.66h6.6l5.68-5.68.18-.64.16-.64 4.61-17.4.29-1.08.28-1.06zM31 1.94l-4.61 17.4-.17.64H21l-.15-.67-1.8-7.73-1.79 7.73-.16.69h-5.37l-.16-.65L7.08 1.94 6.8.86h6.33l.14.69 1.54 7.51 1.71-7.53.15-.67h4.79l.15.68 1.67 7.56 1.58-7.56.14-.68h6.31z" fill="#323333"></path>
-                  </svg>
-                </svg>
-                <defs>
-                  <filter id="colors5981030381">
-                    <feColorMatrix type="matrix" values="0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 0 0.19921875  0 0 0 1 0" class="icon-fecolormatrix"></feColorMatrix>
-                  </filter>
-                  <filter id="colorsf9734115714">
-                    <feColorMatrix type="matrix" values="0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 1 0" class="icon-fecolormatrix"></feColorMatrix>
-                  </filter>
-                  <filter id="colorsb8912559170">
-                    <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" class="icon-fecolormatrix"></feColorMatrix>
-                  </filter>
-                </defs>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
-  <defs v-gra="od"></defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<title>logo-svg</title>
+	<style>
+		.s0 { fill: #252525 } 
+	</style>
+	<path id="Layer copy" fill-rule="evenodd" class="s0" d="m500 46l-4.3 16.4-4.5 16.6-71.1 268.2-2.4 9.9-2.8 9.9-87.5 87.5h-101.8l-2.4-10.2-3.9-22.5-32.7 32.7h-103.6l-38.5-149-35.8-138.7-4.4-16.6-4.3-16.6 87.6-87.6h125.7l2.6 10.7 1.7 10.5 1.3 6.4 27.8-27.6h94.8l2.4 10.4 2.2 10.4 1.4 6.4 27.3-27.2zm-17.2 13.4h-97.4l-2.1 10.4-24.3 116.5-25.8-116.5-2.3-10.4h-73.8l-2.4 10.3-26.3 116-23.8-115.8-2.1-10.5h-97.6l4.4 16.6 69.2 268.3 2.5 10.1h82.6l2.5-10.7 27.6-119.1 27.8 119.1 2.3 10.3h80.5l2.6-9.8 71.1-268.2z"/>
 </svg>
