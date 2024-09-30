@@ -35,7 +35,6 @@ class SearchView extends StatelessWidget {
                       horizontal: 16,
                     ),
                     hintStyle: const TextStyle(color: Colors.white),
-                    // hintText: 'กรุณาใส่ชื่อผลงาน ชื่อนักเขียน หรือประเภท',
                     suffixIconConstraints: const BoxConstraints(
                       maxHeight: 20,
                       maxWidth: 30,
