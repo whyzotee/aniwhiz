@@ -1,18 +1,9 @@
+import 'package:aniwhiz/app/core/app.theme.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-
-import 'modules/home/home_page.dart';
-import 'modules/home/home_provider.dart';
+import 'package:aniwhiz/app/modules/home/widgets/bottom_nav.widget.dart';
 
 void main() {
-  runApp(
-    MultiProvider(
-      providers: [
-        ChangeNotifierProvider(create: (_) => HomeProvider()),
-      ],
-      child: const MainApp(),
-    ),
-  );
+  runApp(const MainApp());
 }
 
 class MainApp extends StatelessWidget {
@@ -20,6 +11,6 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(home: HomePage());
+    return MaterialApp(home: const BottomNavigator(), theme: AppTheme.theme);
   }
 }
