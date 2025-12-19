@@ -23,7 +23,7 @@ dependencies:
 
   # Icon
   flutter_lucide: ^1.7.0
-  fluentui_system_icons: ^1.1.258
+  fluentui_system_icons: ^1.1.273
   
   # Animation
   shimmer: ^3.0.0
