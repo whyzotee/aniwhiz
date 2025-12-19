@@ -186,10 +186,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_lucide
-      sha256: "7d0756fe6eee698874e6a710564c561027779b8287b5b25936fa4d0fcf939265"
+      sha256: f1a5319629eb287c9117fa1fa85910a3b7c9dac83d678f3dd0f71b14c60d2498
       url: "https://pub.dev"
     source: hosted
-    version: "1.4.0"
+    version: "1.7.0"
   flutter_svg:
     dependency: "direct main"
     description:
