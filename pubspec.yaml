@@ -11,8 +11,8 @@ dependencies:
     sdk: flutter
 
   # State management
-  bloc: ^8.1.4
-  flutter_bloc: ^8.1.6
+  bloc: ^9.1.0
+  flutter_bloc: ^9.1.1
 
   # Firebase
   firebase_core: ^3.6.0
