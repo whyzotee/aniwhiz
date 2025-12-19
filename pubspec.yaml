@@ -15,7 +15,7 @@ dependencies:
   flutter_bloc: ^9.1.1
 
   # Firebase
-  firebase_core: ^3.6.0
+  firebase_core: ^4.3.0
   
   # Image
   flutter_svg: ^2.2.3
