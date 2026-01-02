@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   # State management
-  bloc: ^9.1.0
+  bloc: ^9.2.0
   flutter_bloc: ^9.1.1
 
   # Firebase
