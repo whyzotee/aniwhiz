@@ -22,7 +22,7 @@ dependencies:
   cached_network_image: ^3.4.1
 
   # Icon
-  flutter_lucide: ^1.7.0
+  flutter_lucide: ^1.8.2
   fluentui_system_icons: ^1.1.273
   
   # Animation
