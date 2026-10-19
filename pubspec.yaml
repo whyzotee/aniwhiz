@@ -4,7 +4,7 @@ publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: ^3.5.3
+  sdk: ^3.13.5
 
 dependencies:
   flutter:
@@ -15,19 +15,19 @@ dependencies:
   flutter_bloc: ^9.1.1
 
   # Firebase
-  firebase_core: ^4.4.0
+  firebase_core: ^5.0.0
   
   # Image
   flutter_svg: ^2.2.3
-  cached_network_image: ^3.4.1
+  cached_network_image: ^4.0.4
 
   # Icon
   flutter_lucide: ^1.7.0
   fluentui_system_icons: ^1.1.273
   
   # Animation
-  shimmer: ^3.0.0
-  smooth_page_indicator: ^2.0.1
+  shimmer: ^4.0.0
+  smooth_page_indicator: ^3.0.0
 
 dev_dependencies:
   flutter_test:
